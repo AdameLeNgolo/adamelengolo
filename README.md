@@ -1,1 +1,1 @@
-Je m'appelle Adama NIANG et je suis fullstack developpeur web.
+Je m'appelle Adama NIANG et je suis developpeur Laravel.
